@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T03:21:59.680Z",
+  "generated_at": "2026-10-07T16:07:32.301Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -11,6 +11,17 @@
       "path": "math/0024-information-theory-entropy",
       "first_solved_at": "2026-10-05T03:21:53.760Z",
       "last_pushed_at": "2026-10-05T03:21:53.760Z"
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-10-07T16:07:31.418Z",
+      "last_pushed_at": "2026-10-07T16:07:31.418Z"
     }
   }
 }
