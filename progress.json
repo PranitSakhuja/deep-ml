@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:23:08.067Z",
+  "generated_at": "2026-10-08T03:58:47.059Z",
   "items": {
     "math:24": {
       "kind": "math",
@@ -44,6 +44,17 @@
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-10-07T16:23:07.065Z",
       "last_pushed_at": "2026-10-07T16:23:07.065Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-10-08T03:58:45.620Z",
+      "last_pushed_at": "2026-10-08T03:58:45.620Z"
     }
   }
 }
